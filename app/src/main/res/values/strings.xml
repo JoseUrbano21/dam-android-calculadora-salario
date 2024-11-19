@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora_salario_neto</string>
+    <string name="titulo_app">CALCULADORA DE SALARIO NETO</string>
+    <string name="titulo_datos_personales">DATOS PERSONALES</string>
+    <string name="titulo_datos_profesionales">DATOS PROFESIONALES</string>
+    <string name="titulo_datos_economicos">DATOS ECONÓMICOS</string>
+    <string name="titulo_edad">EDAD:</string>
+    <string name="titulo_estado_civil">ESTADO CIVIL:</string>
+    <string name="titulo_numero_de_hijos">NÚMERO DE HIJOS:</string>
+    <string name="titulo_grado_de_discapacidad">GRADO DE DISCAPACIDAD:</string>
+    <string name="hint_discapacidad">Ingresar porcentaje</string>
+    <string name="titulo_grupo_profesional">GRUPO PROFESIONAL:</string>
+    <string name="titulo_salario_bruto_anual">SALARIO BRUTO ANUAL:</string>
+    <string name="hint_salario_bruto">Ingresar salario bruto</string>
+    <string name="titulo_numero_de_pagas">NÚMERO DE PAGAS:</string>
+    <string name="calcular_salario_neto">CALCULAR SALARIO NETO</string>
+    <string name="titulo_resultados">RESULTADOS</string>
+    <string name="result_salario_bruto">SALARIO BRUTO:</string>
+    <string name="result_salario_neto">SALARIO NETO:</string>
+    <string name="irpf">RETENCIÓN IRPF:</string>
+    <string name="posibles_deducciones">DEDUCCIONES APLICADAS:</string>
+</resources>
