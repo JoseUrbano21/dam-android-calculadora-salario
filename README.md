@@ -17,4 +17,4 @@
 ## 📸 Vista previa
 Pantallas de entrada de datos y resultados en la app:
 
-<img src="Screenshot1.png" width="300">   <img src="Screenshot2.png" width="300">
+<img src="screenshot1.png" width="300">   <img src="screenshot2.png" width="300">
